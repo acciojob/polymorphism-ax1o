@@ -25,7 +25,7 @@ public class Main {
         p.product(3,5);
         p.product(3,5,10);
         p.product(5.0,1.0);
-//        System.out.println("Siddhant");
+
 
     }
 
